@@ -26,3 +26,22 @@ div
     width: 300px;
 
 }
+#new
+{
+    background-color: coral;
+    height:400px;
+    width:600px;
+  
+    margin-top: 40px;
+    margin-left:400px ;
+    
+
+}
+#orginal
+{
+    height:400px;
+    width:600px;
+    margin-top: 20px;
+    margin-left: 400px;
+    padding:60px;
+}
