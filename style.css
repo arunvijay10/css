@@ -1,3 +1,28 @@
 h4{
     color: yellow;
 }
+#but
+{
+    color: red;
+    background-color: black;
+    text-transform: capitalize;
+    width: 460px;
+    height: 20px;
+
+}
+#change
+{
+    border:dashed;
+    border: dotted;
+    text-align: center;
+    color: chartreuse;
+    background-color: crimson;
+}
+div
+{
+    background-color: black;  
+    border: dotted;
+    height:300px;
+    width: 300px;
+
+}
