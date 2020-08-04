@@ -11,6 +11,10 @@ body{
 .logo
 {
         width: 50%;
+        padding-top: 32px;
+        /* padding is added because the margin-top is not working
+        to move the facebook down we have used padding */
+       
 }
 .logo-text
 {
@@ -19,9 +23,8 @@ body{
     font-weight: bold;
     text-decoration: none;
     font-family: Helvetica, Arial, sans-serif;
-    margin-top: 5px;
-    margin-left: 25px;
-
+    margin-left: 170px;
+    
 }
 .login{
     width:50%;
