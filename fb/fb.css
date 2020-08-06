@@ -42,13 +42,37 @@ body{
 }
 .login-button
 {
-    background-color:#3b5998;
-    color: black;
-    padding: 0px;
-    margin-left: 14px;
+    border: blue;
+    margin: 7px;    
+    padding: 2px;
+    color: white;
+    background: none;
+
 }
 .input-box
 {
-    margin: 0px;
-    width: 181px;
+    border-color: #1d2a5b;
+    margin: 0;
+    width: 142px;
+    padding-bottom: 4px;
+    border: 1px solid #ccd0d5;
+    border-top-color: rgb(204, 208, 213);
+    border-right-color: rgb(204, 208, 213);
+    border-bottom-color: rgb(204, 208, 213);
+    border-left-color: rgb(204, 208, 213);
+    border-radius: 0;
+    margin: 0;
+    padding: 3px;
+    padding-bottom: 3px;
+    background-color: #fff;
+    color: #1c1e21;
 }
+.fg-btn
+{
+    color: #9cb4d8;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+
