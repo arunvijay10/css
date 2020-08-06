@@ -86,31 +86,40 @@ cursor: pointer;
 /* Header coding End's */
 
 /* main codind */
+.main
+{
+    background: linear-gradient(white, #D3D8E8);
+    height: 500px;
+    width: 100%;
+
+}
 
 .sect-1
 {
     width: 50%;
     float: left;
+    padding-left: 43px;
+    padding-bottom: 155px;
+    margin-left: 115px;
+    padding-top: 108px;
+    padding-right: 165px;
 }
-.fb-quote
+
+.quote
 {
-color: #0e385f;
-font-size: 20px;
-font-weight: bold;
-line-height: 29px;
-margin-top: 40px;
-width: 450px;
-word-spacing: -1px;
-margin-bottom: -16px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #0e385f;
+    line-height: 29px;
+    word-spacing: -1px;
 }
 .fb-img
 {
-        width: -14px;
-        margin: 94px;
-        padding: 13px;
+    width: 576px;
 }
 .sect-2
 {
     width: 50%;
     float: left;
 }
+
