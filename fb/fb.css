@@ -83,5 +83,34 @@ cursor: pointer;
     text-decoration: none;
     font-size: 13px;
 }
+/* Header coding End's */
 
+/* main codind */
 
+.sect-1
+{
+    width: 50%;
+    float: left;
+}
+.fb-quote
+{
+color: #0e385f;
+font-size: 20px;
+font-weight: bold;
+line-height: 29px;
+margin-top: 40px;
+width: 450px;
+word-spacing: -1px;
+margin-bottom: -16px;
+}
+.fb-img
+{
+        width: -14px;
+        margin: 94px;
+        padding: 13px;
+}
+.sect-2
+{
+    width: 50%;
+    float: left;
+}
