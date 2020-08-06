@@ -42,11 +42,12 @@ body{
 }
 .login-button
 {
-    border: blue;
-    margin: 7px;    
-    padding: 2px;
-    color: white;
-    background: none;
+    border-color: blue;
+margin: 7px;
+padding: 2px;
+color: white;
+background: none;
+height: 24px;
 
 }
 .input-box
