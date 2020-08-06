@@ -40,6 +40,7 @@ body{
     text-decoration: none;
     font-size: 16px;
 }
+
 .login-button
 {
     border-color: blue;
@@ -48,8 +49,14 @@ padding: 2px;
 color: white;
 background: none;
 height: 24px;
+cursor: pointer;
 
 }
+
+.login-button:hover{
+    background:darkblue;
+}
+
 .input-box
 {
     border-color: #1d2a5b;
@@ -68,6 +75,7 @@ height: 24px;
     background-color: #fff;
     color: #1c1e21;
 }
+
 .fg-btn
 {
     color: #9cb4d8;
