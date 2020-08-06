@@ -1,25 +1,23 @@
-body{
-    margin:0;
+body {
+    margin: 0;
     font-family: Helvetica, Arial, sans-serif;
 }
-.header
-{
-    width: 100%;
-    height:87px;
-    background-color:#3b5998;
 
+.header {
+    width: 100%;
+    height: 87px;
+    background-color: #3b5998;
 }
-.logo
-{
-        width: 50%;
-        padding-top: 32px;
-        float: left;
-        /* padding is added because the margin-top is not working
+
+.logo {
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+    /* padding is added because the margin-top is not working
         to move the facebook down we have used padding */
-       
 }
-.logo-text
-{
+
+.logo-text {
     color: white;
     font-size: 40px;
     font-weight: bold;
@@ -27,38 +25,35 @@ body{
     font-family: Helvetica, Arial, sans-serif;
     margin-left: 170px;
     float: left;
-    
 }
-.login{
-    width:50%;
-    float: left;
 
+.login {
+    width: 50%;
+    float: left;
 }
-.same{
+
+.same {
     color: #fff;
     font-weight: normal;
     text-decoration: none;
     font-size: 16px;
 }
 
-.login-button
-{
+.login-button {
     border-color: blue;
-margin: 7px;
-padding: 2px;
-color: white;
-background: none;
-height: 24px;
-cursor: pointer;
-
+    margin: 7px;
+    padding: 2px;
+    color: white;
+    background: none;
+    height: 24px;
+    cursor: pointer;
 }
 
-.login-button:hover{
-    background:darkblue;
+.login-button:hover {
+    background: darkblue;
 }
 
-.input-box
-{
+.input-box {
     border-color: #1d2a5b;
     margin: 0;
     width: 142px;
@@ -76,26 +71,26 @@ cursor: pointer;
     color: #1c1e21;
 }
 
-.fg-btn
-{
+.fg-btn {
     color: #9cb4d8;
     font-weight: normal;
     text-decoration: none;
     font-size: 13px;
 }
+
+
 /* Header coding End's */
 
+
 /* main codind */
-.main
-{
+
+.main {
     background: linear-gradient(white, #D3D8E8);
     height: 500px;
     width: 100%;
-
 }
 
-.sect-1
-{
+.sect-1 {
     width: 50%;
     float: left;
     padding-left: 43px;
@@ -105,21 +100,32 @@ cursor: pointer;
     padding-right: 165px;
 }
 
-.quote
-{
-    font-size: 22px;
+.quote {
+    font-size: 19px;
     font-weight: bold;
     color: #0e385f;
     line-height: 29px;
     word-spacing: -1px;
 }
-.fb-img
-{
-    width: 576px;
+
+.fb-img {
+    width: 516px;
 }
-.sect-2
-{
-    width: 50%;
+
+.sect-2 {
+    width: 26%;
     float: left;
 }
 
+.create {
+    font-size: 31px;
+    padding-left: -86px;
+    color: #333;
+    font-weight: 600;
+    line-height: 1.34px;
+}
+
+.quick {
+    color: #1d2129;
+    font-size: 19px;
+}
