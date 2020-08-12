@@ -204,3 +204,19 @@ margin-top: 14px;
 .cu{
     margin-left: -78px;
 }
+.signupbtn{
+    background-color: #00a400;
+    height: 33px;
+    width: 138px;
+    margin-top: 10px;
+    padding: 8px;
+    margin-left: -81px;
+    border: none;
+    text-shadow: none;
+    font-size: 17px;
+    overflow: hidden;
+    margin-right: -80px;
+}
+.move{
+    background-color: greenyellow;
+}
