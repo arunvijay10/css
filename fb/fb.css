@@ -164,10 +164,25 @@ margin-top: 14px;
 }
 .birthday{
     margin-left: -81px;
-    color:silver;
+    color:#808080;
+    margin-top: 46px;
     
 }
-
-.numbers{
-    margin-left: -80px;
+.align{
+    margin-left: -82px;;
+}
+.align2{
+    margin-left: -20px;
+}
+.aligining{
+    margin-top: -44px;
+}
+.Gender{
+   
+}
+.gen{
+    color:#808080;
+    margin-top: 8px;
+    margin-right: -110px;
+    margin-left: -82px;
 }
