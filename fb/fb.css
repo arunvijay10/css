@@ -129,3 +129,36 @@ body {
     color: #1d2129;
     font-size: 19px;
 }
+.valid{
+    background-color: #0e385f;
+    
+}
+.bx1{
+    margin-left: -85px;
+    width: 12%;
+    
+}
+.bx2{
+    margin-left: -85px;
+    width: 12%;
+    margin-left: 10px;;
+}
+.email{
+    
+width: 296px;
+
+padding-left: 61px;
+margin: -85px;
+margin-top: 14px;
+}
+.npass{
+  
+    
+        width: 296px;
+        
+        padding-left: 61px;
+        margin: -85px;
+        margin-top: 21px;
+     
+        
+}
